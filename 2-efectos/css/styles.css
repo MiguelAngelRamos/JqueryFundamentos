@@ -1,0 +1,9 @@
+.caja {
+  width: 250px;
+  height: 250px;
+  background: tomato;
+}
+
+button {
+  margin-bottom: 20px;
+}
